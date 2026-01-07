@@ -206,4 +206,65 @@ nav button {
     font-weight:600;
     line-height: 22px;
     color: #0E0E0E90;
+} 
+
+/* gappppppppppppppppp */
+
+.p{
+    background-color: #09A15C;
+    padding: 20px;
+}
+.b{
+    background-color: #006A50;
+}
+.news-container .news-heading h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+
+}
+.news-container .news-heading p{
+    font-size: 13px;
+    font-weight: 400px;
+    line-height: 22px;
+    color: #0E0E0E80;
+    margin-bottom: 30px;
+}
+
+.news-content{
+    display: flex;
+    gap: 30px;
+    border: 2px solid #0e0e0e1a;
+    padding: 40px;
+    border-radius: 22px;
+    background-color: #FFFFFF;
+    margin-bottom: 22px;
+}
+.news-content img{
+    border-radius: 22px;
+}
+.news-content .news h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #0E0E0E90;
+    margin-bottom: 10px;
+}
+.news-content .news img{
+    margin-bottom: 10px;
+}
+.news-content .news p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #0E0E0E80;
+    margin-bottom: 12px;
+}
+.news-content .news button{
+    padding: 10px 22px;
+    background-color: #006A50;
+    border: none;
+    border-radius: 7px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 600;
 }
